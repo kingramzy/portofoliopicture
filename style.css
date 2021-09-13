@@ -1,0 +1,28 @@
+.jumbotron {
+  margin-top: 4rem;
+  background: url("img/Eula\(2\).jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+  padding: 5px;
+}
+
+.image {
+  background: url("img/SpursReal.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.image2 {
+  background: url("img/Tari.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
